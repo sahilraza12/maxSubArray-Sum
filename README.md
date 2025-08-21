@@ -1,1 +1,2 @@
 # maxSubArray-Sum
+(Brute Force)
